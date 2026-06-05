@@ -5,7 +5,7 @@ The buttons still blank cuz I don't have many projects yet hehe.
 
 🔗 You can test my portfolio using this link: [https://richiee-l.github.io/first-portfolio-html-test-only-/](https://richiee-l.github.io/first-portfolio-html-test-only-/)
 
-yea this is also a blank pages/links, but the 3 social link at the bottom, it can redirect you to my socmed accounts!
+yea this is also a blank pages/links, but the 3 social links at the bottom, it can redirect you to my socmed accounts!
 
 ---
 
