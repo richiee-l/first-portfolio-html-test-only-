@@ -18,7 +18,7 @@ yea this is also a blank pages/links, but the 3 social links at the bottom, it c
 
 ---
 
-## 💡 Experience Gained
+## 💡 Experiences Gained
 
 - 📡 How to proper div the elements
 - ⚙️ How to design a container in a div
